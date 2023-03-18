@@ -1,4 +1,3 @@
-### Welcome to my data chamber! Data scientist at NASA with 4+ years of experience in developing and vetting machine learning models 👋
 
 <!--
 **EhsanGharibNezhad/EhsanGharibNezhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,5 +35,5 @@ I'm a passionate __Data scientist__ at NASA space administration. My 4+ years of
 ▪ 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻𝘀 / 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻: Matplotlib, Seaborn, Bokeh, Sphinx\
 ▪ 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 / 𝗥𝗲𝗴𝗿𝗲𝘀𝘀𝗶𝗼𝗻 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀: XGBoost, Random Forest, Support Vector Machine \
 ▪ 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: 1D/2D-Convolutional Neural Network (CNN), Deep Neural Network (DNN) \
-▪ 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗠𝗲𝘁𝗵𝗼𝗱𝘀: Descriptive, Inferential, Predictive
+▪ 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗠𝗲𝘁𝗵𝗼𝗱𝘀: Bayesian optimization, Predictive/Descriptive statistics
 
