@@ -7,6 +7,12 @@ Here are some ideas to get you started:
 
 -->
  
+
+<h2> 💻 💼 About Me : </h2>
+
+Hello,\
+I'm a passionate __Data scientist__ at NASA space administration. I love how machine learning has leveraged our life. My 4+ years of work experience after PhD gave me this great opportunity to work on a variety of exciting projects ranging from deploying and training ML models, analyzing telescope datasets to visializating the findings and reporting them to technical and non-technical audiance. This way I share the joy of insights driven from the data with others.  
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-gharib-nezhad/) 
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/exoEhsan) 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EhsanGharibNezhad?tab=repositories) 
@@ -15,16 +21,14 @@ Here are some ideas to get you started:
 [![]()](https://twitter.com/exoEhsan) 
 [![]()](https://twitter.com/exoEhsan) --->
 
-<h2> 💻 💼 About Me : </h2>
 
-Hello,\
-I'm a passionate __Data scientist__ at NASA space administration. I love how machine learning has leveraged our life. My 4+ years of work experience after PhD gave me this great opportunity to work on a variety of exciting projects ranging from deploying and training ML models, analyzing telescope datasets to visializating the findings and reporting them to technical and non-technical audiance. This way I share the joy of insights driven from the data with others.  
-
-𝗞𝗲𝘆 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁:
-
+𝗞𝗲𝘆 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁:\
 ▪ Raised $1.1 Million dollars for analyzing data from the US space missions\
 ▪ Led research programs to develop and deploy machine learning models and deep learning techniques\
 ▪ Experienced in simplifying complex problems and collaborating with cross-functional teams to leverage products\
+
+
+
 
 <h2>🪚🔧 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐬𝐤𝐢𝐥𝐥s:</h2>
 
@@ -38,7 +42,6 @@ Below is a list of some of the skills that I've gained throughout my 10+ years o
 [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) 
 
 
-<h2>🪚🔧 Statistics:</h2>
 
 <h2>🪚🔧 Traditional Machine learning models:</h2>
 [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) 
@@ -58,10 +61,6 @@ Below is a list of some of the skills that I've gained throughout my 10+ years o
 [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) 
 [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io) 
 
-
-[![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/en-us/) 
-[![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com) 
-[<img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" width = "100" height = "27.5"/>](https://www.sqlite.org/index.html)
 
  / 𝗣𝗮𝗰𝗸𝗮𝗴𝗲𝘀: Python, SQL (Postgres), Scikit-Learn, TensorFlow/Keras\
 ▪ 𝗗𝗮𝘁𝗮 𝗠𝗮𝗻𝗶𝗽𝘂𝗹𝗮𝘁𝗶𝗼𝗻 / 𝗧𝗲𝘅𝘁 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴: Pandas, NumPy, SciPy, NLTK, API\
