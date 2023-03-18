@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <h2> 💻 💼 About Me : </h2>
 
 Hello,\
-I'm a passionate __Data scientist__ at NASA space administration. I love how machine learning has leveraged our life. My 4+ years of work experience after PhD gave me this great opportunity to work on a variety of exciting projects ranging from deploying and training ML models, analyzing telescope datasets to visializating the findings and reporting them to technical and non-technical audiance. This way I share the joy of insights driven from the data with others.  
+I'm a passionate __Data scientist__ at NASA space administration. I love how machine learning has leveraged our life. Over the past four years after my PhD, I had this great opportunity to work on a variety of exciting projects ranging from deploying and training ML models, analyzing telescope datasets to visializating the findings and reporting them to technical and non-technical audiance. This way I share the joy of having insights driven from the data with others.  
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-gharib-nezhad/) 
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/exoEhsan) 
