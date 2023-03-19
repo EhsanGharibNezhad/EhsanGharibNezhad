@@ -22,7 +22,7 @@ I'm a passionate __Data scientist__ at NASA space administration. I love how mac
 [![]()](https://twitter.com/exoEhsan) --->
 
 
-𝗞𝗲𝘆 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁:\
+## 𝗞𝗲𝘆 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁:
 ▪ Raised $1.1 Million dollars for analyzing data from the US space missions\
 ▪ Led research programs to develop and deploy machine learning models and deep learning techniques\
 ▪ Experienced in simplifying complex problems and collaborating with cross-functional teams to leverage products\
@@ -67,4 +67,7 @@ Below is a list of some of the skills that I've gained throughout my 10+ years o
 [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io) 
 
 
+
+## 💼 My Portfolio Overview:
+My several years of research and work experience in astrophysics and computer science have provided me with this great opportunity to expert several ML packages, building strong statistical foundation, and learn project management and building high-performance team on several __machine learning__, __deep learning__, and  __natural language processing__. I invite you to check out the descriptions at the bottom of this website. My portfolio shows diversity and depth of knowledge in supervised (__classification__, __regression__and more.
 
