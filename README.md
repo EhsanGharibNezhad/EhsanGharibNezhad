@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 -->
  
+[Under Construction!!!]
 
 <h2> 💻 💼 About Me : </h2>
-[Under Construction!!!]
 Hello,\
 I'm a passionate __Data scientist__ at NASA space administration. I love how machine learning has leveraged our life. Over the past four years after my PhD, I had this great opportunity to work on a variety of exciting projects ranging from deploying and training ML models, analyzing telescope datasets to visializating the findings and reporting them to technical and non-technical audiance. This way I share the joy of having insights driven from the data with others.  
 
