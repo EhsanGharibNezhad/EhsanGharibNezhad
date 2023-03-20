@@ -73,7 +73,7 @@ My several years of research and work experience in astrophysics and computer sc
 
 | 🏠 [Housing Sales Price Prediction](https://github.com/EhsanGharibNezhad/Reddit_pandemic_Covid_NLP)|🤟 [Americal Sign Language Image Classification with CNN](https://github.com/EhsanGharibNezhad/ASL_alphabet_cnn_model_for_GA)|
 | :-:| :-:| 
-| [<img src = "https://www.forbes.com/advisor/wp-content/uploads/2022/04/housing_crash.jpg" width = 500 height = 300/>]([https://github.com/EhsanGharibNezhad/Reddit_pandemic_Covid_NLP](https://github.com/EhsanGharibNezhad/Prediction-of-the-Housing-Price-Using-Machine-Learning-Tools))  <br> Acheived >90% accuracy to predict Ames house price using regression method| [<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00521-019-04691-y/MediaObjects/521_2019_4691_Fig1_HTML.png" width = 500 height = 300 />](https://github.com/EhsanGharibNezhad/ASL_alphabet_cnn_model_for_GA) <br> Building CNN classifier to recognize English Alphabets through ASL language <br> >77% accuracy|
+| [<img src = "https://www.forbes.com/advisor/wp-content/uploads/2022/04/housing_crash.jpg" width = 500 height = 300/>]([https://github.com/EhsanGharibNezhad/Reddit_pandemic_Covid_NLP](https://github.com/EhsanGharibNezhad/Prediction-of-the-Housing-Price-Using-Machine-Learning-Tools))  <br> Acheived >90% accuracy to predict Ames house price using regression method| [<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00521-019-04691-y/MediaObjects/521_2019_4691_Fig1_HTML.png" width = 500 height = 300 />](https://github.com/EhsanGharibNezhad/ASL_alphabet_cnn_model_for_GA) <br> Building CNN classifier to recognize English Alphabets through ASL language  >77% accuracy|
 
 
 
