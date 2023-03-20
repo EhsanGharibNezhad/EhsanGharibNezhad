@@ -86,7 +86,7 @@ My several years of research and work experience in astrophysics and computer sc
 
 #
 
-<img align="left" width="250" height="100" src="https://www.forbes.com/advisor/wp-content/uploads/2022/04/housing_crash.jpg"> **[Housing Sales Price Prediction](https://github.com/EhsanGharibNezhad/Prediction-of-the-Housing-Price-Using-Machine-Learning-Tools)**
+<img align="left" width="250" height="150" src="https://www.forbes.com/advisor/wp-content/uploads/2022/04/housing_crash.jpg"> **[Housing Sales Price Prediction](https://github.com/EhsanGharibNezhad/Prediction-of-the-Housing-Price-Using-Machine-Learning-Tools)**
 
 **Methodlology**: Regression <br>
 **Algorithims**: LR <br>
@@ -95,7 +95,7 @@ My several years of research and work experience in astrophysics and computer sc
 
 #
 
-<img align="left" width="250" height="100" src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00521-019-04691-y/MediaObjects/521_2019_4691_Fig1_HTML.png"> **[Americal Sign Language Image Classification](https://github.com/EhsanGharibNezhad/ASL_alphabet_cnn_model_for_GA)**
+<img align="left" width="250" height="150" src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00521-019-04691-y/MediaObjects/521_2019_4691_Fig1_HTML.png"> **[Americal Sign Language Image Classification](https://github.com/EhsanGharibNezhad/ASL_alphabet_cnn_model_for_GA)**
 
 **Methodlology**: Multi-Class Classification <br>
 **Algorithims**: Conv Neural Network <br>
