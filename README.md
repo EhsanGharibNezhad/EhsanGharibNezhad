@@ -36,26 +36,20 @@ The first programming language I learned in academia was __Fortran__ which I use
 
 Below is a list of some of the skills that I've gained throughout my 10+ years of experience of working as a research scientist at Arizona State University and then as a __data scientist__ at NASA. As I'm a fond of __Python__ and its packages, I have also created open scource libraries and online tutorials which you could check in the following: 
 
+▪ **Programming Languages/Tools**: Python, Scikit-learn, TensorFlow, Keras, SQL
 
-▪ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴:
+▪ **Data Manipulation/ Visualizations/ Documentation**: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Bokeh, Sphinx
+
+▪ **ML/ Deep Learning**: XGBoost, Random Forest, Support Vector Machine, Convolutional Neural Networks (CNNs), DNNs
+
+▪ **Statistics**: Bayesian optimization (MCMC), Time series analysis,  Predictive/Descriptive statistics
+
+
 
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org) [![](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.sql.com) 
-
-
-▪ __Traditional Machine learning Algorithims:__
-
 [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) 
-
-
-▪  __Data manipulation / Visualization / reporting:__
-
 [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org)  [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)  [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) <br>
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com)  [![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org)  [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)  [![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)  [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
-
-
-
-▪  __Deep Neural Network:__
-
 [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) 
 [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io) 
 
