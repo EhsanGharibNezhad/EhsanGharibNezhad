@@ -67,13 +67,43 @@ My several years of research and work experience in astrophysics and computer sc
 
 <h2 align = "center"> 🖥 My Machine Learning Projects: </h2> 
 
-| 🌡🥵 [Reddit_Pandemic_Covid_NLP]([https://github.com/EhsanGharibNezhad/Reddit_pandemic_Covid_NLP](https://github.com/EhsanGharibNezhad/Prediction-of-the-Housing-Price-Using-Machine-Learning-Tools))|🧬 [DNA Sequencing ML Classifier](https://github.com/EhsanGharibNezhad/DNA_Sequencing_Using_Machine_Learning_Algorithms)|
-| :-:| :-:| 
-| [<img src = "https://www.cnet.com/a/img/resize/f02a9f6e90e5c39347a2b44fb01e11f8a7656663/hub/2020/12/15/999f6acd-77f2-4bdf-9ac3-38c9335eecdf/gettyimages-1209519819.jpg?auto=webp&fit=crop&height=675&width=1200" width = 500 height = 300/>](https://github.com/EhsanGharibNezhad/Reddit_pandemic_Covid_NLP)  <br> Acheived >96% accuracy to classify imbalanced text  <br> dataset scraping >30,000 Pandemic-related posts from Reddit| [<img src="https://biocorecrg.github.io/CRG_Bioinformatics_for_Biologists_2021/pics/dna_title.jpg" width = 500 height = 300/>](https://github.com/EhsanGharibNezhad/DNA_Sequencing_Using_Machine_Learning_Algorithms) <br> Building DNN predictor to classify DNA 7 family genes   <br> with >73% accuracy|
+<img align="left" width="250" height="150" src="https://www.cnet.com/a/img/resize/f02a9f6e90e5c39347a2b44fb01e11f8a7656663/hub/2020/12/15/999f6acd-77f2-4bdf-9ac3-38c9335eecdf/gettyimages-1209519819.jpg?auto=webp&fit=crop&height=675&width=1200"> **[Reddit_Pandemic_Covid_NLP](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
-| 🏠 [Housing Sales Price Prediction](https://github.com/EhsanGharibNezhad/Reddit_pandemic_Covid_NLP)|🤟 [Americal Sign Language Image Classification with CNN](https://github.com/EhsanGharibNezhad/ASL_alphabet_cnn_model_for_GA)|
-| :-:| :-:| 
-| [<img src = "https://www.forbes.com/advisor/wp-content/uploads/2022/04/housing_crash.jpg" width = 500 height = 300/>]([https://github.com/EhsanGharibNezhad/Reddit_pandemic_Covid_NLP](https://github.com/EhsanGharibNezhad/Prediction-of-the-Housing-Price-Using-Machine-Learning-Tools))  <br><p align="left"> ⬝ Built multiclass CNN classifier to recognize ASL alphabets <br> ⬝ Achieved >77% accuracy </p>| [<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00521-019-04691-y/MediaObjects/521_2019_4691_Fig1_HTML.png" width = 500 height = 300 />](https://github.com/EhsanGharibNezhad/ASL_alphabet_cnn_model_for_GA) <br><p align="left"> ⬝ Built multiclass CNN classifier to recognize ASL alphabets <br> ⬝ Achieved >77% accuracy </p> |
+**Methodlology**: Binary classification <br>
+**Algorithims**: XGBoost, SVM, RF, kNN <br>
+**Performance**: >96% <br> 
+**Summary**: benchmarked several traditional ML models to train a binary classifier to read the Reddit Covid19 Pandemic-related 30,000+ Pandemic-related posts and label their origin.
+
+
+#
+
+<img align="left" width="250" height="150" src="https://biocorecrg.github.io/CRG_Bioinformatics_for_Biologists_2021/pics/dna_title.jpg"> **[DNA Sequencing ML Classifier](https://github.com/EhsanGharibNezhad/DNA_Sequencing_Using_Machine_Learning_Algorithms)**
+
+**Methodlology**: Multi-class classification <br>
+**Algorithims**: RF, DNN <br>
+**Performance**: >73% <br> 
+**Summary**: Accuratly label the DNA 7 family genes
+
+#
+
+<img align="left" width="250" height="100" src="https://www.forbes.com/advisor/wp-content/uploads/2022/04/housing_crash.jpg"> **[Housing Sales Price Prediction](https://github.com/EhsanGharibNezhad/Prediction-of-the-Housing-Price-Using-Machine-Learning-Tools)**
+
+**Methodlology**: Regression <br>
+**Algorithims**: LR <br>
+**Performance**: >73% <br> 
+**Summary**: Accuratly label the DNA 7 family genes
+
+#
+
+<img align="left" width="250" height="100" src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00521-019-04691-y/MediaObjects/521_2019_4691_Fig1_HTML.png"> **[Americal Sign Language Image Classification](https://github.com/EhsanGharibNezhad/ASL_alphabet_cnn_model_for_GA)**
+
+**Methodlology**: Multi-Class Classification <br>
+**Algorithims**: Conv Neural Network <br>
+**Performance**: >77% <br> 
+**Summary**: Built CNN classifier to recognize Americal Sign Language (ASL) alphabets
+
+#
+
 
 
 
