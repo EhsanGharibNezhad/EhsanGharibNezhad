@@ -71,3 +71,11 @@ Below is a list of some of the skills that I've gained throughout my 10+ years o
 ## 💼 My Portfolio Overview:
 My several years of research and work experience in astrophysics and computer science have provided me with this great opportunity to expert several ML packages, building strong statistical foundation, and learn project management and building high-performance team on several __machine learning__, __deep learning__, and  __natural language processing__. I invite you to check out the descriptions at the bottom of this website. My portfolio shows diversity and depth of knowledge in supervised (__classification__, __regression__and more.
 
+## My Machine Learning Projects:
+
+<h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
+
+| 🌡🥵 [Reddit_Pandemic_Covid_NLP](https://github.com/EhsanGharibNezhad/Reddit_pandemic_Covid_NLP)|🧬 [DNA Sequencing ML Classifier](https://github.com/EhsanGharibNezhad/DNA_Sequencing_Using_Machine_Learning_Algorithms)|
+| :-:| :-:| 
+| [<img src = "https://www.cnet.com/a/img/resize/f02a9f6e90e5c39347a2b44fb01e11f8a7656663/hub/2020/12/15/999f6acd-77f2-4bdf-9ac3-38c9335eecdf/gettyimages-1209519819.jpg?auto=webp&fit=crop&height=675&width=1200" width = 500 height = 300/>](https://github.com/EhsanGharibNezhad/Reddit_pandemic_Covid_NLP)| [<img src="https://biocorecrg.github.io/CRG_Bioinformatics_for_Biologists_2021/pics/dna_title.jpg" width = 500 height = 300/>](https://github.com/EhsanGharibNezhad/DNA_Sequencing_Using_Machine_Learning_Algorithms)
+
