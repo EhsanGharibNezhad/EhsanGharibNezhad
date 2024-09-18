@@ -7,8 +7,6 @@ Here are some ideas to get you started:
 
 -->
  
-[Under Construction!!!]
-
 <h2> 💻 💼 About Me : </h2>
 Hello and welcome!
 
