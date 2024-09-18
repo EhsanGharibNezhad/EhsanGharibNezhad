@@ -57,47 +57,55 @@ Homepage: https://www.nasa.gov/ames/spacescience-and-astrobiology/ehsan-gharib-n
 
 
 ## 💼 My Portfolio Overview:
-My several years of research and work experience in astrophysics and computer science have provided me with this great opportunity to expert several ML packages, building strong statistical foundation, and learn project management and building high-performance team on several __machine learning__, __deep learning__, and  __natural language processing__. I invite you to check out the descriptions at the bottom of this website. My portfolio shows diversity and depth of knowledge in supervised (__classification__, __regression__and more.
+My several years of research and work experience in astrophysics have provided me with this great opportunity to expert several ML packages, building strong statistical foundation, and learn project management and building high-performance team on several __machine learning__, __deep learning__, and  __natural language processing__. I invite you to check out the descriptions at the bottom of this website. My portfolio shows diversity and depth of knowledge in supervised (__classification__, __regression__and more.
 
+<h2 align="center"> 🖥 My Machine Learning Projects: </h2> 
 
-<h2 align = "center"> 🖥 My Machine Learning Projects: </h2> 
+<table>
+  <tr>
+    <th>Projects</th>
+    <th>Techniques</th>
+    <th>Data Types</th>
+    <th>Poster</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/EhsanGharibNezhad/Reddit_pandemic_Covid_NLP"><strong>Reddit Pandemic Covid NLP</strong></a><br>
+      <em>Benchmarking traditional ML models to classify Reddit Covid19 Pandemic-related posts.</em>
+    </td>
+    <td>XGBoost, SVM, RF, kNN</td>
+    <td>Text</td>
+    <td><img src="https://www.cnet.com/a/img/resize/f02a9f6e90e5c39347a2b44fb01e11f8a7656663/hub/2020/12/15/999f6acd-77f2-4bdf-9ac3-38c9335eecdf/gettyimages-1209519819.jpg?auto=webp&fit=crop&height=675&width=1200" alt="Reddit Pandemic Covid NLP" width="200"></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/EhsanGharibNezhad/DNA_Sequencing_Using_Machine_Learning_Algorithms"><strong>DNA Sequencing ML Classifier</strong></a><br>
+      <em>Accurately labeling DNA family genes using ML algorithms.</em>
+    </td>
+    <td>RF, DNN</td>
+    <td>Genomic</td>
+    <td><img src="https://biocorecrg.github.io/CRG_Bioinformatics_for_Biologists_2021/pics/dna_title.jpg" alt="DNA Sequencing ML Classifier" width="200"></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/EhsanGharibNezhad/Prediction-of-the-Housing-Price-Using-Machine-Learning-Tools"><strong>Housing Sales Price Prediction</strong></a><br>
+      <em>Predicting housing prices using regression techniques.</em>
+    </td>
+    <td>LR</td>
+    <td>Tabular</td>
+    <td><img src="https://www.forbes.com/advisor/wp-content/uploads/2022/04/housing_crash.jpg" alt="Housing Sales Price Prediction" width="200"></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/EhsanGharibNezhad/ASL_alphabet_cnn_model_for_GA"><strong>American Sign Language Image Classification</strong></a><br>
+      <em>Built a CNN classifier to recognize ASL alphabets.</em>
+    </td>
+    <td>Conv Neural Network</td>
+    <td>Image</td>
+    <td><img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00521-019-04691-y/MediaObjects/521_2019_4691_Fig1_HTML.png" alt="American Sign Language Image Classification" width="200"></td>
+  </tr>
+</table>
 
-<img align="left" width="250" height="150" src="https://www.cnet.com/a/img/resize/f02a9f6e90e5c39347a2b44fb01e11f8a7656663/hub/2020/12/15/999f6acd-77f2-4bdf-9ac3-38c9335eecdf/gettyimages-1209519819.jpg?auto=webp&fit=crop&height=675&width=1200"> **[Reddit_Pandemic_Covid_NLP](https://github.com/EhsanGharibNezhad/Reddit_pandemic_Covid_NLP)**
-
-**Methodlology**: Binary classification <br>
-**Algorithims**: XGBoost, SVM, RF, kNN <br>
-**Performance**: >96% <br> 
-**Summary**: benchmarked several traditional ML models to train a binary classifier to read the Reddit Covid19 Pandemic-related 30,000+ Pandemic-related posts and label their origin.
-
-
-#
-
-<img align="left" width="250" height="150" src="https://biocorecrg.github.io/CRG_Bioinformatics_for_Biologists_2021/pics/dna_title.jpg"> **[DNA Sequencing ML Classifier](https://github.com/EhsanGharibNezhad/DNA_Sequencing_Using_Machine_Learning_Algorithms)**
-
-**Methodlology**: Multi-class classification <br>
-**Algorithims**: RF, DNN <br>
-**Performance**: >73% <br> 
-**Summary**: Accuratly label the DNA 7 family genes
-
-#
-
-<img align="left" width="250" height="150" src="https://www.forbes.com/advisor/wp-content/uploads/2022/04/housing_crash.jpg"> **[Housing Sales Price Prediction](https://github.com/EhsanGharibNezhad/Prediction-of-the-Housing-Price-Using-Machine-Learning-Tools)**
-
-**Methodlology**: Regression <br>
-**Algorithims**: LR <br>
-**Performance**: >73% <br> 
-**Summary**: Accuratly label the DNA 7 family genes
-
-#
-
-<img align="left" width="250" height="150" src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00521-019-04691-y/MediaObjects/521_2019_4691_Fig1_HTML.png"> **[Americal Sign Language Image Classification](https://github.com/EhsanGharibNezhad/ASL_alphabet_cnn_model_for_GA)**
-
-**Methodlology**: Multi-Class Classification <br>
-**Algorithims**: Conv Neural Network <br>
-**Performance**: >77% <br> 
-**Summary**: Built CNN classifier to recognize Americal Sign Language (ASL) alphabets
-
-#
 
 
 
