@@ -25,21 +25,21 @@ I love how machine learning has leveraged our life. Over the past four years aft
 
 ## Key Achievements
 
-- Raised $1.7 million for data processing and analysis from US space missions.
-- Led research programs to develop and deploy machine learning models and deep learning techniques with ML publications
-- Experienced in simplifying complex problems and collaborating with cross-functional teams to leverage products.
-- Holds a Ph.D. with a dissertation utilizing advanced statistical models and developed Python codes.
+   - Raised $1.7 million for data processing and analysis from US space missions.
+   - Led research programs to develop and deploy machine learning models and deep learning techniques with ML publications
+   - Experienced in simplifying complex problems and collaborating with cross-functional teams to leverage products.
+   - Holds a Ph.D. with a dissertation utilizing advanced statistical models and developed Python codes.
 
 Homepage: https://www.nasa.gov/ames/spacescience-and-astrobiology/ehsan-gharib-nezhad
 
 <h2>🪚🔧 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐬𝐤𝐢𝐥𝐥s:</h2>
 
-- **Programming / Packages:** Python, SQL (Postgres), Scikit-Learn, TensorFlow/Keras
-- **Data Manipulation / Text Processing:** Pandas, NumPy, SciPy, NLTK, API
-- **Data Visualizations / Documentation:** Matplotlib, Seaborn, Bokeh, Sphinx
-- **Classification / Regression Algorithms:** XGBoost, Random Forest, Support Vector Machine
-- **Deep Learning:** 1D/2D Convolutional Neural Networks (CNN), Feed-Forward Neural Networks (FNN)
-- **Statistical Analysis Methods:** Descriptive, Inferential, Predictive
+   - **Programming / Packages:** Python, SQL (Postgres), Scikit-Learn, TensorFlow/Keras
+   - **Data Manipulation / Text Processing:** Pandas, NumPy, SciPy, NLTK, API
+   - **Data Visualizations / Documentation:** Matplotlib, Seaborn, Bokeh, Sphinx
+   - **Classification / Regression Algorithms:** XGBoost, Random Forest, Support Vector Machine
+   - **Deep Learning:** 1D/2D Convolutional Neural Networks (CNN), Feed-Forward Neural Networks (FNN)
+   - **Statistical Analysis Methods:** Descriptive, Inferential, Predictive
 
 
 
