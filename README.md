@@ -103,8 +103,14 @@ My several years of research and work experience in astrophysics have provided m
     </td>
     <td>CNN, Image Classification, Transfer Learning, Data Augmentation, Model Fine-tuning, Neural Network Training</td>
     <td>Image Data, Visual Data, Gesture Recognition</td>
-    <td><img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00521-019-04691-y/MediaObjects/521_2019_4691_Fig1_HTML.png" alt="American Sign Language Alphabet Classifier" width="200"></td>
+    <td><img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00521-019-04691-y/MediaObjects/521_2019_4691_Fig1_HTML.png" alt="American Sign Language Alphabet Classifier" width="200">
+    </td>
   </tr>
+
+ <tr>
+    <td>
+      <a href="https://github.com/EhsanGharibNezhad/Wafer_Defect_Detection_Deep_Learning"><strong>Automated Wafer Defect Detection and Pattern Recognition Using Deep Learning</strong></a><br> <em>Developed a deep learning-based framework for automated defect detection and pattern recognition in semiconductor wafer images, achieving 98% accuracy and 93% precision. Utilized AutoEncoder CNNs with PyTorch, data augmentation, and Bayesian Optimization.</em> </td> <td>AutoEncoder CNNs, PyTorch, Data Augmentation, Bayesian Optimization, Defect Classification, Feature Extraction</td> <td>High-resolution Wafer Images, Semiconductor Data</td> <td><img src="https://www.cognex.com/library/media/industry/electronics-products/semiconductor-wafer-inspection.jpg?sc_lang=en&h=250&w=350&la=en&hash=83FE10BC686AD852783D376BCE955DC3" width="200"></td> </tr> 
+ 
 </table>
 
 
