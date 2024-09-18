@@ -59,7 +59,6 @@ Homepage: https://www.nasa.gov/ames/spacescience-and-astrobiology/ehsan-gharib-n
 ## 💼 My Portfolio Overview:
 My several years of research and work experience in astrophysics have provided me with this great opportunity to expert several ML packages, building strong statistical foundation, and learn project management and building high-performance team on several __machine learning__, __deep learning__, and  __natural language processing__. I invite you to check out the descriptions at the bottom of this website. My portfolio shows diversity and depth of knowledge in supervised (__classification__, __regression__and more.
 
-<h2 align="center"> 🖥 My Machine Learning Projects: </h2> 
 
 <h2 align="center"> 🖥 My Machine Learning Projects: </h2> 
 
@@ -75,7 +74,7 @@ My several years of research and work experience in astrophysics have provided m
       <a href="https://github.com/EhsanGharibNezhad/Reddit_pandemic_Covid_NLP"><strong>COVID-19 Reddit Post Classifier</strong></a><br>
       <em>Developed a binary classification model to categorize Reddit posts related to the COVID-19 pandemic, benchmarking various machine learning algorithms.</em>
     </td>
-    <td>XGBoost, Support Vector Machines (SVM), Random Forest, k-Nearest Neighbors (kNN), Feature Engineering, Hyperparameter Tuning, Cross-Validation</td>
+    <td>XGBoost, SVM, Random Forest, kNN, Feature Engineering, Hyperparameter Tuning, Cross-Validation</td>
     <td>Text Data, NLP, Social Media Posts</td>
     <td><img src="https://www.cnet.com/a/img/resize/f02a9f6e90e5c39347a2b44fb01e11f8a7656663/hub/2020/12/15/999f6acd-77f2-4bdf-9ac3-38c9335eecdf/gettyimages-1209519819.jpg?auto=webp&fit=crop&height=675&width=1200" alt="COVID-19 Reddit Post Classifier" width="200"></td>
   </tr>
@@ -102,7 +101,7 @@ My several years of research and work experience in astrophysics have provided m
       <a href="https://github.com/EhsanGharibNezhad/ASL_alphabet_cnn_model_for_GA"><strong>American Sign Language Alphabet Classifier</strong></a><br>
       <em>Built a convolutional neural network (CNN) model to classify and recognize American Sign Language (ASL) alphabet gestures from images.</em>
     </td>
-    <td>Convolutional Neural Networks (CNN), Image Classification, Transfer Learning, Data Augmentation, Model Fine-tuning, Neural Network Training</td>
+    <td>CNN, Image Classification, Transfer Learning, Data Augmentation, Model Fine-tuning, Neural Network Training</td>
     <td>Image Data, Visual Data, Gesture Recognition</td>
     <td><img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00521-019-04691-y/MediaObjects/521_2019_4691_Fig1_HTML.png" alt="American Sign Language Alphabet Classifier" width="200"></td>
   </tr>
