@@ -43,56 +43,16 @@ I love how machine learning has leveraged our life. Over the past four years aft
 
 
 ## 💼 Projects:
-<table>
-  <tr>
-    <th>Projects</th>
-    <th>Techniques</th>
-    <th>Data Types</th>
-    <th>Poster</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/EhsanGharibNezhad/Reddit_pandemic_Covid_NLP"><strong>COVID-19 Reddit Post Classifier</strong></a><br>
-      <em>Developed a binary classification model to categorize Reddit posts related to the COVID-19 pandemic, benchmarking various machine learning algorithms.</em>
-    </td>
-    <td>XGBoost, SVM, Random Forest, kNN, Feature Engineering, Hyperparameter Tuning, Cross-Validation</td>
-    <td>Text Data, NLP, Social Media Posts</td>
-    <td><img src="https://www.cnet.com/a/img/resize/f02a9f6e90e5c39347a2b44fb01e11f8a7656663/hub/2020/12/15/999f6acd-77f2-4bdf-9ac3-38c9335eecdf/gettyimages-1209519819.jpg?auto=webp&fit=crop&height=675&width=1200" alt="COVID-19 Reddit Post Classifier" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/EhsanGharibNezhad/DNA_Sequencing_Using_Machine_Learning_Algorithms"><strong>DNA Sequencing Classification System</strong></a><br>
-      <em>Implemented a multi-class classification system to accurately identify and label seven DNA gene families using machine learning techniques.</em>
-    </td>
-    <td>Random Forest, Deep Neural Networks (DNN), Multi-class Classification, Genetic Algorithms, Feature Selection, Model Evaluation</td>
-    <td>Genomic Data, DNA Sequences, Bioinformatics</td>
-    <td><img src="https://biocorecrg.github.io/CRG_Bioinformatics_for_Biologists_2021/pics/dna_title.jpg" alt="DNA Sequencing Classification System" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/EhsanGharibNezhad/Prediction-of-the-Housing-Price-Using-Machine-Learning-Tools"><strong>Housing Price Prediction Model</strong></a><br>
-      <em>Developed a regression model to predict housing prices, utilizing various feature engineering techniques to enhance model accuracy.</em>
-    </td>
-    <td>Linear Regression, Regression Analysis, Feature Engineering, Data Preprocessing, Model Evaluation, Statistical Analysis</td>
-    <td>Tabular Data, Real Estate Data, Housing Market</td>
-    <td><img src="https://www.forbes.com/advisor/wp-content/uploads/2022/04/housing_crash.jpg" alt="Housing Price Prediction Model" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/EhsanGharibNezhad/ASL_alphabet_cnn_model_for_GA"><strong>American Sign Language Alphabet Classifier</strong></a><br>
-      <em>Built a convolutional neural network (CNN) model to classify and recognize American Sign Language (ASL) alphabet gestures from images.</em>
-    </td>
-    <td>CNN, Image Classification, Transfer Learning, Data Augmentation, Model Fine-tuning, Neural Network Training</td>
-    <td>Image Data, Visual Data, Gesture Recognition</td>
-    <td><img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00521-019-04691-y/MediaObjects/521_2019_4691_Fig1_HTML.png" alt="American Sign Language Alphabet Classifier" width="200">
-    </td>
-  </tr>
 
- <tr>
-    <td>
-      <a href="https://github.com/EhsanGharibNezhad/Wafer_Defect_Detection_Deep_Learning"><strong>Automated Wafer Defect Detection and Pattern Recognition Using Deep Learning</strong></a><br> <em>Developed a deep learning-based framework for automated defect detection and pattern recognition in semiconductor wafer images, achieving 98% accuracy and 93% precision. Utilized AutoEncoder CNNs with PyTorch, data augmentation, and Bayesian Optimization.</em> </td> <td>AutoEncoder CNNs, PyTorch, Data Augmentation, Bayesian Optimization, Defect Classification, Feature Extraction</td> <td>High-resolution Wafer Images, Semiconductor Data</td> <td><img src="https://www.cognex.com/library/media/industry/electronics-products/semiconductor-wafer-inspection.jpg?sc_lang=en&h=250&w=350&la=en&hash=83FE10BC686AD852783D376BCE955DC3" width="200"></td> </tr> 
- 
-</table>
+## 💼 Projects:
+
+| **Project** | **Techniques** | **Data Type** | **Preview** |
+|-------------|----------------|---------------|-------------|
+| [**COVID-19 Reddit Post Classifier**](https://github.com/EhsanGharibNezhad/Reddit_pandemic_Covid_NLP) <br> *Developed a binary classification model to categorize Reddit posts related to the COVID-19 pandemic, benchmarking various machine learning algorithms.* | XGBoost, SVM, Random Forest, kNN, Feature Engineering, Hyperparameter Tuning, Cross-Validation | Text Data, NLP, Social Media Posts | ![COVID-19 Reddit Post Classifier](https://www.cnet.com/a/img/resize/f02a9f6e90e5c39347a2b44fb01e11f8a7656663/hub/2020/12/15/999f6acd-77f2-4bdf-9ac3-38c9335eecdf/gettyimages-1209519819.jpg?auto=webp&fit=crop&height=675&width=1200) |
+| [**DNA Sequencing Classification System**](https://github.com/EhsanGharibNezhad/DNA_Sequencing_Using_Machine_Learning_Algorithms) <br> *Implemented a multi-class classification system to accurately identify and label seven DNA gene families using machine learning techniques.* | Random Forest, Deep Neural Networks (DNN), Genetic Algorithms, Feature Selection, Model Evaluation | Genomic Data, DNA Sequences, Bioinformatics | ![DNA Sequencing Classification System](https://biocorecrg.github.io/CRG_Bioinformatics_for_Biologists_2021/pics/dna_title.jpg) |
+| [**Housing Price Prediction Model**](https://github.com/EhsanGharibNezhad/Prediction-of-the-Housing-Price-Using-Machine-Learning-Tools) <br> *Developed a regression model to predict housing prices, utilizing various feature engineering techniques to enhance model accuracy.* | Linear Regression, Feature Engineering, Data Preprocessing, Model Evaluation, Statistical Analysis | Tabular Data, Real Estate Data, Housing Market | ![Housing Price Prediction Model](https://www.forbes.com/advisor/wp-content/uploads/2022/04/housing_crash.jpg) |
+| [**American Sign Language Alphabet Classifier**](https://github.com/EhsanGharibNezhad/ASL_alphabet_cnn_model_for_GA) <br> *Built a convolutional neural network (CNN) model to classify and recognize American Sign Language (ASL) alphabet gestures from images.* | CNN, Transfer Learning, Data Augmentation, Model Fine-tuning | Image Data, Gesture Recognition | ![American Sign Language Alphabet Classifier](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00521-019-04691-y/MediaObjects/521_2019_4691_Fig1_HTML.png) |
+| [**Automated Wafer Defect Detection and Pattern Recognition Using Deep Learning**](https://github.com/EhsanGharibNezhad/Wafer_Defect_Detection_Deep_Learning) <br> *Developed a deep learning-based framework for automated defect detection and pattern recognition in semiconductor wafer images, achieving 98% accuracy and 93% precision.* | AutoEncoder CNNs, PyTorch, Data Augmentation, Bayesian Optimization | High-resolution Wafer Images, Semiconductor Data | ![Wafer Defect Detection](https://www.cognex.com/library/media/industry/electronics-products/semiconductor-wafer-inspection.jpg?sc_lang=en&h=250&w=350&la=en&hash=83FE10BC686AD852783D376BCE955DC3) |
 
 
 
