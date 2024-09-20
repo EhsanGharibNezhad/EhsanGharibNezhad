@@ -29,7 +29,7 @@ I love how machine learning has leveraged our life. Over the past four years aft
 
 
 <a href="https://github.com/ehsangharibnezhad/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ehsangharibnezhad&show_icons=true&locale=en&card_width=150" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ehsangharibnezhad&show_icons=true&locale=en&card_width=150&theme=dark" />
 </a>
 
 
