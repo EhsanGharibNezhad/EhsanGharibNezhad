@@ -1,11 +1,8 @@
 
-<!--
-**EhsanGharibNezhad/EhsanGharibNezhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Sam</h1>
+<h3 align="center">Machine Learning and Computer Vision Scientist. I Help engineers and scientists across the center to deliver impactful solutions by building ML/DL models and Computer Vision piplines </h3>
 
 
--->
  
 <h2> 💻 💼 About Me : </h2>
 Hello and welcome!
@@ -14,54 +11,38 @@ I am an ML Scientist at NASA with 5+ years of expertise in AI/ML algorithm desig
 
 I love how machine learning has leveraged our life. Over the past four years after my PhD, I had this great opportunity to work on a variety of exciting projects ranging from deploying and training ML models, analyzing telescope datasets to visializating the findings and reporting them to technical and non-technical audiance. This way I share the joy of having insights driven from the data with others.  
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-gharib-nezhad/) 
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/exoEhsan) 
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EhsanGharibNezhad?tab=repositories) 
-<!--
-[![]()](https://twitter.com/exoEhsan) 
-[![]()](https://twitter.com/exoEhsan) 
-[![]()](https://twitter.com/exoEhsan) --->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/exoEhsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nielsencv_ai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ehsan-gharib-nezhad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolaiai" height="30" width="40" /></a>
+<a href="https://www.nasa.gov/people/ehsan-sam-gharib-nezhad/" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" alt="NASA" height="40" width="40" />
+</a>
+ 
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+ </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsangharibnezhad&show_icons=true&theme=dark&locale=en" alt="ehsangharibnezhad" /></p>
 
 
-## Key Achievements
+
+
+
+## Key Roles
 
    - Raised $1.7 million for data processing and analysis from US space missions.
    - Led research programs to develop and deploy machine learning models and deep learning techniques with ML publications
    - Experienced in simplifying complex problems and collaborating with cross-functional teams to leverage products.
    - Holds a Ph.D. with a dissertation utilizing advanced statistical models and developed Python codes.
 
-Homepage: https://www.nasa.gov/ames/spacescience-and-astrobiology/ehsan-gharib-nezhad
-
-<h2>🪚🔧 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐬𝐤𝐢𝐥𝐥s:</h2>
-
-   - **Programming / Packages:** Python, SQL (Postgres), Scikit-Learn, TensorFlow/Keras
-   - **Data Manipulation / Text Processing:** Pandas, NumPy, SciPy, NLTK, API
-   - **Data Visualizations / Documentation:** Matplotlib, Seaborn, Bokeh, Sphinx
-   - **Classification / Regression Algorithms:** XGBoost, Random Forest, Support Vector Machine
-   - **Deep Learning:** 1D/2D Convolutional Neural Networks (CNN), Feed-Forward Neural Networks (FNN)
-   - **Statistical Analysis Methods:** Descriptive, Inferential, Predictive
 
 
-
-
-  [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)
-  [![](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.sql.com)
-  [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-  [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
-  [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
-  [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
-  [![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-  [![](https://img.shields.io/badge/SageMaker-F2C300?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/sagemaker/)
-  [![](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
-
-
-
-## 💼 My Portfolio Overview:
-My several years of research and work experience in astrophysics have provided me with this great opportunity to expert several ML packages, building strong statistical foundation, and learn project management and building high-performance team on several __machine learning__, __deep learning__, and  __natural language processing__. I invite you to check out the descriptions at the bottom of this website. My portfolio shows diversity and depth of knowledge in supervised (__classification__, __regression__and more.
-
-
-<h2 align="center"> 🖥 My Machine Learning Projects: </h2> 
-
+## 💼 Projects:
 <table>
   <tr>
     <th>Projects</th>
