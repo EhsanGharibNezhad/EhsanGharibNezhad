@@ -29,10 +29,10 @@ I love how machine learning has leveraged our life. Over the past four years aft
 
 
 <a href="https://github.com/ehsangharibnezhad/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ehsangharibnezhad&show_icons=true&theme=dark&locale=en" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ehsangharibnezhad&show_icons=true&theme=dark&locale=en&card_width=200" />
 </a>
 <a href="https://github.com/ehsangharibnezhad/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsangharibnezhad&layout=compact&langs_count=8&card_width=280&hide=jupyter%20notebook&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsangharibnezhad&layout=compact&langs_count=8&card_width=200&hide=jupyter%20notebook&show_icons=true&theme=dark" />
 </a>
 
 
