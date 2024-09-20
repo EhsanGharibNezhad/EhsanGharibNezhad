@@ -33,16 +33,23 @@ I love how machine learning has leveraged our life. Over the past four years aft
 
 
 
-## Key Roles
+## Key Roles and Acheivements:
+
+- Led research programs to develop and deploy ML/DL models techniques with ML publications
+
+**[TelescopeML](https://pypi.org/project/TelescopeML) PyPI Software:** 📦 <a href="https://pypi.org/project/TelescopeML/" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg" alt="PyPI" height="30" width="40" /></a>  
+  Key developer; Implimenting CNN models, enhancing the analysis of telescope data for scientists. Including:
+   - 📄 User-Friendly   [Documenattion](https://ehsangharibnezhad.github.io/TelescopeML/)
+   - [published paper](https://ehsangharibnezhad.github.io/TelescopeML/) in Journal of Open Source Software <a href="https://pypi.org/project/TelescopeML/" target="_blank"><img align="center" src="https://media.licdn.com/dms/image/v2/C4E12AQECIY_bRnZiFw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520162588761?e=1732147200&v=beta&t=K6oslr2YBik0VpnRfjMfMqzKOlEbDGZeSar2mvPoOrE" alt="PyPI" height="30" width="40" />
+</a>   
+
 
    - Raised $1.7 million for data processing and analysis from US space missions.
-   - Led research programs to develop and deploy machine learning models and deep learning techniques with ML publications
    - Experienced in simplifying complex problems and collaborating with cross-functional teams to leverage products.
    - Holds a Ph.D. with a dissertation utilizing advanced statistical models and developed Python codes.
 
 
-
-## 💼 Projects:
 
 ## 💼 Projects:
 
